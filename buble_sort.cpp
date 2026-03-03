@@ -61,6 +61,7 @@ void bubbleshortArray()
 }
 
 void display()
+
 {
     cout << endl;
     cout << "============================" << endl;
